@@ -1,0 +1,1 @@
+# This is a simple crud application made using Spring MVC and Hibernate
